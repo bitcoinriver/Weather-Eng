@@ -9,6 +9,6 @@ Used: Built using HTML, CSS, JavaScript, APIs and other libraries...
 
 Website link:
 
-https://codex-sky.github.io/Weather-App-Eng/ - English Lang.
+https://bitcoinriver.github.io/Weather-Eng/ - English Lang.
 
-https://codex-sky.github.io/Weather-App-Uz/ - Uzbek Lang.
+https://bitcoinriver.github.io/Weather-Uz/ - Uzbek Lang.
